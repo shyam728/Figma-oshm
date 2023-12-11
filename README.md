@@ -1,8 +1,17 @@
 # React + Vite Project for OHSM Company
 
 This project is a React.js and Tailwind CSS-based UI design created for OHSM Company.
+<img width="947" alt="1" src="https://github.com/shyam728/Figma-oshm/assets/116745835/8adb800d-dff5-4b34-b2bd-bf4738a506cf">
 
-![Project Screenshot](path/to/screenshot-1.png)
+<img width="946" alt="2" src="https://github.com/shyam728/Figma-oshm/assets/116745835/68b1f90e-9036-4842-a1b3-0ce8adf317ff">
+
+
+<img width="943" alt="3" src="https://github.com/shyam728/Figma-oshm/assets/116745835/8691673d-7930-4850-b8c5-75630c9e378e">
+
+<img width="952" alt="4" src="https://github.com/shyam728/Figma-oshm/assets/116745835/e0bc7edc-9667-4356-a927-4f4a94f8612c">
+
+
+
 
 ## Live Link
 
